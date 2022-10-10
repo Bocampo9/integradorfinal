@@ -1,0 +1,61 @@
+.awhite a {
+    color: white;
+    font-size: 15px;
+}
+
+.bgnav {
+    background-color: rgba(53,58,64,255);
+}
+.imgagua {
+    background-size: cover;
+    height:100%;
+}
+.cajatitulo {
+    background-color: rgba(26, 26, 25, 0.6);
+}
+.textimg {
+
+    text-align: right;
+    margin: auto;
+    padding-right: 15vh;
+    font-weight: 500;
+    font-size: small;
+}
+.textimg .titulo {
+    font-size: 5vh;
+
+}
+.textimg .texto-titulo {
+    margin-left: 11vh;
+}
+.bgcard {
+    background-color: rgba(53,58,64,255);
+    color: white;
+    border-left: 1px white solid;
+}
+.bordepunt {
+    text-decoration: underline dotted;
+}
+
+.btn-green {
+    background-color: rgba(150,201,62,255);
+}
+.fs8 {
+    font-size: x-small;
+}
+
+.bgfooter {
+    background: rgb(19,47,64);
+    background: linear-gradient(90deg, rgba(19,47,64,1) 1%, rgba(30,79,109,1) 100%, rgba(23,60,82,1) 100%, rgba(30,79,109,1) 100%);
+}
+.bgfooter > a {
+    font-size: 12px;
+    width: auto;
+    color: white;
+}
+.botfoot {
+    font-size: small;
+    color: white;
+    font-weight: light;
+    padding: 10px 20px;
+}
